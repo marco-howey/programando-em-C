@@ -1,0 +1,15 @@
+Sorteio: 		== 10		// fixo
+ :				== 3		// qtd sorteiros - 1
+unidade 		== 1		// vezes a quantidade sorteios
+dezena			== 2		// vezes a quantidade sorteios
+centena 		== 3		// vezes a quantidade sorteios
+milhar 			== 4		// vezes a quantidade sorteios
+
+10 + (3*(qtd_s - 1)) + (qtd_s * und)
+
+
+ordem de sorteio 
+
+2	== aleatorio
+0	== crescente
+1	== decrescente

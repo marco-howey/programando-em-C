@@ -1,0 +1,11 @@
+# Arquivos gerados por compiladores
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+
+# Pastas de compilação
+build/
+bin/
